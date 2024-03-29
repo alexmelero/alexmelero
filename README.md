@@ -43,8 +43,8 @@
 
 ## Contacto y Redes Sociales:
 
-- 📧 [Correo Electrónico](mailto:alejandroama88@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-melero-araujo-03669526b/)
+<a href="mailto:alejandroama88@gmail.com"><img src="https://raw.githubusercontent.com/alexmelero/alexmelero/main/correo-electronico.png" alt="Correo Electrónico" width="80" style="margin-right: 20px;"/></a>
+<a href="https://www.linkedin.com/in/alejandro-melero-araujo-03669526b/"><img src="https://raw.githubusercontent.com/alexmelero/alexmelero/main/linkedin%20(1).png" alt="LinkedIn" width="80" style="margin-right: 20px;"/></a>
 
 ## ¿Quieres colaborar?
 ¡Siempre estoy abierto a nuevas oportunidades de colaboración y aprendizaje! Si tienes algún proyecto interesante en mente o simplemente quieres conectarte, ¡no dudes en contactarme!
