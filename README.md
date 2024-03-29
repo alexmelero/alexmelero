@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Alex Melero 👋
 
 ## Sobre mí
 ¡Hola! Soy **Alex Melero**, un apasionado desarrollador junior en busca de aprender y crecer en el mundo de la programación. Me encanta enfrentarme a nuevos desafíos y explorar diferentes tecnologías para desarrollar soluciones innovadoras.
