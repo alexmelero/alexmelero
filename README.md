@@ -3,7 +3,7 @@
 ## Sobre mí
 ¡Hola! Soy **Alex Melero**, un apasionado desarrollador junior en busca de aprender y crecer en el mundo de la programación. Me encanta enfrentarme a nuevos desafíos y explorar diferentes tecnologías para desarrollar soluciones innovadoras.
 
-## Tecnologías en las que tengo conocimientos:
+## Tecnologías:
 
 ### Lenguajes de programación:
 <div style="display: flex; flex-wrap: wrap;">
